@@ -6,14 +6,11 @@ import Fade from "@material-ui/core/Fade";
 import axios from "axios";
 import {
   img_300,
-  img_500,
-  unavailable,
-  unavailableLandscape,
+  unavailable
 } from "../../config/config";
 import "./ContentModal.css";
 import { Button } from "@material-ui/core";
 import YouTubeIcon from "@material-ui/icons/YouTube";
-import Carousel from "../Carousel/Carousel";
 
 const useStyles = makeStyles((theme) => ({
   modal: {
