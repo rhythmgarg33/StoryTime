@@ -1,12 +1,12 @@
 # 1. Methodology
 
-Methodology for web development
+# Methodology for web development
 ![Website-Development-Life-Cycle-1024x512](https://user-images.githubusercontent.com/83527816/208227836-01f8600d-6bb4-43d3-9f4c-3044d83c059b.png)
 
 
 
 
-Methodology for machine learning model development
+# Methodology for machine learning model development
 ![machine-learning-life-cycle](https://user-images.githubusercontent.com/83527816/208232314-829831e5-ee6d-4f18-ad2d-a133f881d875.png)
 
 # 2. Description
@@ -47,6 +47,9 @@ Api Key to fetch data about the upcoming movies and tv shows
 
 Api Key to fetch data about the top rated movies and tv shows
 `https://api.themoviedb.org/3/movie/now_playing?api_key=1c11234814d81ec360a938da254bd1ed&language=en-US&page=1`;
+
+
+
 
 
 
