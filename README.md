@@ -51,10 +51,6 @@ Api Key to fetch data about the top rated movies and tv shows
 
 
 
-Output Displayed in the form of images 
-
-
-
 # 4. Live Link
 
 
