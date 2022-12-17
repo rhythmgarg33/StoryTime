@@ -29,6 +29,8 @@ Used HTML, CSS, Java Script, React JS, Material UI and Machine Learning based on
 - Other Models Available- Eucledian Distance but less accuracy.
 
 Image shows cosine distance of a particular movie from all 5000 movies.
+
+
 ![21645ironman](https://user-images.githubusercontent.com/83527816/208232736-13b76082-061c-4968-85bf-5bb080eaed99.png)
 
 
